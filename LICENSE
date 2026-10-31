@@ -1,0 +1,25 @@
+RapidTunes et son installateur
+Copyright (c) 2026 Ghost Industry. Tous droits réservés.
+
+Ce logiciel, son code source, ses ressources graphiques (dont le logo et les icônes), sa documentation et son
+installateur sont la propriété exclusive de Ghost Industry. Ils ne sont PAS distribués sous une licence libre
+ou open source.
+
+Sauf autorisation écrite préalable de Ghost Industry, il est interdit de :
+  - copier, modifier, fusionner, traduire ou créer des œuvres dérivées du logiciel ou de son code source ;
+  - redistribuer, publier, vendre, louer, sous-licencier ou mettre à disposition le logiciel, son code source,
+    ses ressources ou son installateur, en tout ou en partie ;
+  - décompiler, désassembler, faire de l'ingénierie inverse ou tenter d'extraire le code source du logiciel,
+    sauf dans la mesure où la loi applicable l'autorise expressément malgré cette interdiction ;
+  - contourner, supprimer ou altérer les protections techniques, les mentions de droits d'auteur ou les
+    vérifications d'intégrité du logiciel ;
+  - utiliser le nom « RapidTunes », son logo ou ses icônes pour un autre produit.
+
+L'utilisateur est autorisé à installer et utiliser une copie du logiciel obtenue auprès de Ghost Industry, pour
+un usage personnel et non commercial.
+
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte. Ghost Industry ne peut être tenue
+responsable des dommages résultant de son utilisation.
+
+Les composants tiers (yt-dlp, ffmpeg, deno, bibliothèques Rust et JavaScript) restent soumis à leurs propres
+licences.
