@@ -27,6 +27,8 @@ Si tu penses qu'un contenu ou un usage de RapidTunes porte atteinte à tes droit
 
 Une méthode de connexion et un abonnement premium sont prévus. Ils ne sont pas disponibles aujourd'hui, et ces conditions décrivent la version actuelle. Avant leur ouverture, des conditions spécifiques seront présentées et devront être acceptées : fonctions incluses, prix, durée, renouvellement, résiliation, droit de rétractation, moyens de paiement et assistance. Elles ne s'appliqueront qu'à partir de ton acceptation.
 
+Aujourd'hui, toutes les fonctions de RapidTunes sont disponibles gratuitement. Avec l'arrivée de l'abonnement premium, certaines fonctions pourront être limitées dans la version gratuite ou réservées au premium, par exemple : la vitesse de téléchargement de Media DL, le nombre de téléchargements sur une période donnée, la qualité audio maximale, et la personnalisation de l'apparence (couleur et style de l'icône, couleurs du thème de l'application). Ces changements seront annoncés dans l'application et dans le journal des modifications avant leur application.
+
 ## Disponibilité
 
 Les fonctions qui dépendent de services tiers peuvent cesser de fonctionner à tout moment si ces services changent. L'éditeur ne garantit pas leur disponibilité.
