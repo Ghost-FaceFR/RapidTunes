@@ -1,25 +1,50 @@
-RapidTunes et son installateur
+CONTRAT DE LICENCE UTILISATEUR FINAL DE RAPIDTUNES
+Version 1.0, 1er novembre 2026
 Copyright (c) 2026 Ghost Industry. Tous droits réservés.
 
-Ce logiciel, son code source, ses ressources graphiques (dont le logo et les icônes), sa documentation et son
-installateur sont la propriété exclusive de Ghost Industry. Ils ne sont PAS distribués sous une licence libre
-ou open source.
+En installant, copiant ou utilisant RapidTunes (l'application, son installateur, ses ressources graphiques dont le logo et les icônes, et sa documentation, ensemble le « Logiciel »), vous acceptez les termes de ce contrat. Si vous les refusez, n'installez pas et n'utilisez pas le Logiciel.
 
-Sauf autorisation écrite préalable de Ghost Industry, il est interdit de :
-  - copier, modifier, fusionner, traduire ou créer des œuvres dérivées du logiciel ou de son code source ;
-  - redistribuer, publier, vendre, louer, sous-licencier ou mettre à disposition le logiciel, son code source,
-    ses ressources ou son installateur, en tout ou en partie ;
-  - décompiler, désassembler, faire de l'ingénierie inverse ou tenter d'extraire le code source du logiciel,
-    sauf dans la mesure où la loi applicable l'autorise expressément malgré cette interdiction ;
-  - contourner, supprimer ou altérer les protections techniques, les mentions de droits d'auteur ou les
-    vérifications d'intégrité du logiciel ;
-  - utiliser le nom « RapidTunes », son logo ou ses icônes pour un autre produit.
+1. Propriété
+Le Logiciel est la propriété exclusive de Ghost Industry (l'« Éditeur »). Il est protégé par le droit d'auteur et par les conventions internationales. Il est concédé sous licence, il n'est pas vendu. Il n'est pas distribué sous une licence libre ou open source, et son code source n'est pas public.
 
-L'utilisateur est autorisé à installer et utiliser une copie du logiciel obtenue auprès de Ghost Industry, pour
-un usage personnel et non commercial.
+2. Licence accordée
+L'Éditeur vous accorde une licence personnelle, non exclusive, non transférable, non sous-licenciable et révocable, pour installer et utiliser le Logiciel sur vos propres appareils, pour un usage personnel et non commercial.
 
-Le logiciel est fourni « en l'état », sans garantie d'aucune sorte. Ghost Industry ne peut être tenue
-responsable des dommages résultant de son utilisation.
+3. Restrictions
+Sauf autorisation écrite préalable de l'Éditeur, il est interdit de :
+  a) copier, modifier, traduire, adapter ou créer des œuvres dérivées du Logiciel ou de son code source ;
+  b) redistribuer, publier, vendre, louer, prêter ou mettre à disposition le Logiciel, son installateur, ses ressources ou son code source, en tout ou en partie ;
+  c) décompiler, désassembler, faire de l'ingénierie inverse ou tenter d'extraire le code source du Logiciel, sauf dans la mesure où la loi applicable l'autorise expressément malgré cette interdiction ;
+  d) contourner, supprimer ou altérer les protections techniques, les mentions de droits d'auteur, les vérifications d'intégrité ou les mécanismes de mise à jour ;
+  e) utiliser le nom « RapidTunes », son logo ou ses icônes pour un autre produit ou service ;
+  f) utiliser le Logiciel pour porter atteinte aux droits d'un tiers ou en violation de la loi.
 
-Les composants tiers (yt-dlp, ffmpeg, deno, bibliothèques Rust et JavaScript) restent soumis à leurs propres
-licences.
+4. Composants tiers
+Le Logiciel s'appuie sur des bibliothèques et des programmes tiers (notamment yt-dlp, FFmpeg, Deno et Microsoft WebView2) qui restent soumis à leurs propres licences. Ils sont listés dans le fichier THIRD_PARTY_NOTICES.md et dans l'application, rubrique Mentions légales. Rien dans ce contrat ne restreint les droits que ces licences vous accordent sur ces composants.
+
+5. Contenus téléchargés ou lus
+Le Logiciel permet de télécharger, convertir et lire des médias. L'Éditeur n'héberge, ne fournit et ne contrôle aucun de ces contenus. Vous êtes seul responsable des contenus que vous téléchargez, convertissez ou lisez, et du respect des droits d'auteur, des droits voisins et des conditions d'utilisation des services concernés. Voir le fichier TERMS.md.
+
+6. Données personnelles
+Le Logiciel ne collecte aucune donnée personnelle pour le compte de l'Éditeur. Le détail des données traitées localement et des connexions réseau est dans le fichier PRIVACY.md.
+
+7. Mises à jour
+Le Logiciel peut rechercher, télécharger et proposer des mises à jour. Une mise à jour peut modifier ou retirer des fonctions. Le présent contrat s'applique à chaque mise à jour.
+
+8. Absence de garantie
+Le Logiciel est fourni « en l'état » et « selon disponibilité », sans garantie d'aucune sorte, expresse ou implicite, notamment de qualité marchande, d'adéquation à un usage particulier, d'absence d'erreur ou d'interruption. Cette clause s'applique dans la limite permise par la loi, et ne prive pas le consommateur des garanties légales qui ne peuvent pas être exclues.
+
+9. Limitation de responsabilité
+Dans la limite permise par la loi, l'Éditeur n'est pas responsable des dommages indirects, de la perte de données, de la perte de profits ou des dommages résultant de l'utilisation ou de l'impossibilité d'utiliser le Logiciel, ni des contenus que vous téléchargez ou lisez. Cette clause ne limite pas la responsabilité en cas de faute lourde, de dol ou de dommage corporel.
+
+10. Durée et résiliation
+Ce contrat dure tant que vous utilisez le Logiciel. Il prend fin automatiquement si vous ne respectez pas l'une de ses clauses. Vous pouvez y mettre fin à tout moment en désinstallant le Logiciel et en supprimant ses copies. Les clauses 1, 3, 5, 8, 9 et 11 survivent à la fin du contrat.
+
+11. Droit applicable
+Ce contrat est soumis au droit français. Pour un consommateur, les tribunaux compétents sont ceux désignés par les règles légales en vigueur. À défaut d'accord amiable, tout litige relève des tribunaux français.
+
+12. Fonctions à venir
+Une méthode de connexion et un abonnement premium sont prévus. Ils feront l'objet de conditions spécifiques, présentées et acceptées avant leur activation. Ce contrat reste applicable au Logiciel dans l'intervalle.
+
+13. Contact
+Ghost Industry. Questions, demandes et signalements : https://github.com/Ghost-FaceFR/RapidTunes/issues
