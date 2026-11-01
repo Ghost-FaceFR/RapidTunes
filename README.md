@@ -68,6 +68,9 @@ RapidTunes est un logiciel propriétaire, **non open source**. Ce dépôt ne con
 - [Contrat de licence](LICENSE)
 - [Conditions d'utilisation](legal/TERMS.md)
 - [Confidentialité et données](legal/PRIVACY.md)
+- [Conditions de vente](legal/SALES_TERMS.md)
+- [Sécurité](SECURITY.md)
+- [Crédits](legal/CREDITS.md)
 - [Composants tiers](legal/THIRD_PARTY_NOTICES.md)
 
 Ces documents sont aussi consultables dans l'application, rubrique À propos, Mentions légales.
