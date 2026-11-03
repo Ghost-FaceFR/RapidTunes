@@ -53,13 +53,13 @@ Si RapidTunes est déjà installé, l'installateur propose de mettre à jour, r�
 
 ## Versions
 
-| Version | Notes |
+| Version | Système |
 | --- | --- |
-| [1.2.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.2.0) | Nouvel installateur, mini lecteur, visualisations |
-| [1.1.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.1.0) | Nouveau logo, repli automatique si le dossier est protégé |
-| [1.0.2](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.2) | Correctifs du dossier de destination |
-| [1.0.1](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.1) | Correctifs de démarrage |
-| [1.0.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.0) | Première version |
+| [1.2.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.2.0) | Windows 10 et 11 (64 bits) |
+| [1.1.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.1.0) | Windows 10 et 11 (64 bits) |
+| [1.0.2](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.2) | Windows 10 et 11 (64 bits) |
+| [1.0.1](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.1) | Windows 10 et 11 (64 bits) |
+| [1.0.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.0) | Windows 10 et 11 (64 bits) |
 
 ## Licence et mentions légales
 
