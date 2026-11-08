@@ -8,7 +8,7 @@
 
 ![Windows 10 et 11](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white)
 ![64 bits](https://img.shields.io/badge/architecture-x64-555555)
-![Dernière version stable](https://img.shields.io/github/v/release/Ghost-FaceFR/RapidTunes?color=6C5CE7&label=derni%C3%A8re%20version%20stable)
+![Dernière version stable](https://img.shields.io/badge/version_stable-1.2.0-6C5CE7)
 ![Licence propriétaire](https://img.shields.io/badge/licence-propri%C3%A9taire-555555)
 
 [**Télécharger RapidTunes**](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest) · [Voir les nouveautés](CHANGELOG.md)
