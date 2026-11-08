@@ -1,69 +1,75 @@
 <div align="center">
 
-<img src="logo.png" alt="RapidTunes" width="128" />
+<img src="logo.png" alt="Logo RapidTunes" width="128" />
 
 # RapidTunes
 
-**Lecteur média et téléchargeur audio/vidéo pour Windows.**
+**Votre bibliothèque musicale, votre lecteur et vos téléchargements — réunis dans une application Windows.**
 
-![Plateforme](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows&logoColor=white)
-![Version](https://img.shields.io/github/v/release/Ghost-FaceFR/RapidTunes?color=6C5CE7&label=version)
+![Windows 10 et 11](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white)
+![64 bits](https://img.shields.io/badge/architecture-x64-555555)
+![Dernière version stable](https://img.shields.io/github/v/release/Ghost-FaceFR/RapidTunes?color=6C5CE7&label=derni%C3%A8re%20version%20stable)
+![Licence propriétaire](https://img.shields.io/badge/licence-propri%C3%A9taire-555555)
 
-[**Télécharger la dernière version**](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest) · [Journal des modifications](CHANGELOG.md)
+[**Télécharger RapidTunes**](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest) · [Voir les nouveautés](CHANGELOG.md)
 
 </div>
 
 ---
 
-## Présentation
+## Découvrez RapidTunes
 
-RapidTunes réunit deux outils dans une seule application :
+RapidTunes réunit un lecteur multimédia et **Media DL** dans une application de bureau pensée pour Windows. Écoutez et organisez vos médias locaux, personnalisez votre expérience, ou lancez un téléchargement depuis un lien ou une recherche — sans jongler entre plusieurs outils.
 
-- **Lecteur média** : bibliothèque locale, playlists, file de lecture, mini lecteur, égaliseur, lecture plein écran.
-- **Media DL** : téléchargement et conversion de médias depuis un lien ou une recherche, avec file d'attente et historique.
+## Ce que vous pouvez faire
 
-## Fonctionnalités
+### Écouter et organiser votre bibliothèque
 
-### Media DL
-- Téléchargement audio/vidéo depuis un lien ou une recherche (vidéo ou playlist)
-- Formats MP3, MP4, WAV, FLAC, AAC, en plusieurs qualités
-- File d'attente, pause / reprise, annulation, limitation de débit
-- Vitesse en temps réel, progression et temps restant, historique des téléchargements
+- Parcourir vos fichiers et dossiers audio ou vidéo dans une bibliothèque locale.
+- Créer des playlists, gérer la file de lecture, mélanger les titres et régler la vitesse de lecture.
+- Modifier les informations et les pochettes de vos médias.
+- Profiter du plein écran pour les vidéos et d'un mini lecteur compact, avec visualisation et option toujours au premier plan.
+- Personnaliser le son avec l'égaliseur et ses préréglages, puis choisir parmi plusieurs visualisations audio.
 
-### Lecteur média
-- Bibliothèque locale (dossiers, fichiers), playlists, file de lecture, lecture aléatoire, vitesse de lecture
-- Édition des tags, pochettes et propriétés des médias
-- Mini lecteur avec visualisation, option « Toujours au premier plan », lecture plein écran
-- Égaliseur avec de nombreux préréglages
-- Visualisations audio qui réagissent à la musique
+### Trouver et télécharger avec Media DL
 
-### Application
-- Thèmes de couleurs, interface en français, fenêtre sans bordure
-- Mises à jour intégrées : téléchargement et installation en un clic
+- Saisir un lien ou rechercher un média, une vidéo ou une playlist.
+- Choisir parmi plusieurs formats audio et vidéo, dont MP3, MP4, WAV, FLAC et AAC. Les choix disponibles dépendent du média source.
+- Suivre les téléchargements dans une file d'attente : progression et vitesse en temps réel, pause, reprise, annulation et limitation du débit.
+- Retrouver les téléchargements précédents dans l'historique et ouvrir directement leur emplacement.
 
-## Installation
+### Une application qui s'adapte à vous
 
-1. Télécharge le fichier `RapidTunes_<version>_x64-setup.exe` depuis la page [**Releases**](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest).
-2. Lance-le et suis les étapes : options d'installation, raccourcis, progression.
-3. Au premier lancement, RapidTunes installe seul les composants dont il a besoin (yt-dlp, ffmpeg, deno).
+- Choisir un thème et des couleurs personnalisées.
+- Utiliser une interface disponible en français.
+- Recevoir les mises à jour intégrées et les installer depuis l'application.
 
-Si RapidTunes est déjà installé, l'installateur propose de mettre à jour, réparer ou désinstaller.
+## Télécharger et installer
 
-> Windows peut afficher un avertissement « éditeur inconnu » au lancement : l'installateur n'est pas encore signé numériquement. Tu peux vérifier l'empreinte SHA-256 du fichier affichée sur la page de la release.
+1. Téléchargez le dernier installateur stable depuis la page [**Releases**](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest).
+2. Ouvrez `RapidTunes_<version>_x64-setup.exe` et suivez les étapes de l'installateur.
+3. Au premier lancement, RapidTunes installe automatiquement les composants nécessaires, notamment yt-dlp, FFmpeg et Deno.
 
-## Versions
+Si RapidTunes est déjà installé, l'installateur peut proposer de mettre à jour, réparer ou désinstaller l'application. La suppression des données peut être choisie lors de la désinstallation.
 
-| Version | Système |
-| --- | --- |
-| [1.2.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.2.0) | Windows 10 et 11 (64 bits) |
-| [1.1.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.1.0) | Windows 10 et 11 (64 bits) |
-| [1.0.2](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.2) | Windows 10 et 11 (64 bits) |
-| [1.0.1](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.1) | Windows 10 et 11 (64 bits) |
-| [1.0.0](https://github.com/Ghost-FaceFR/RapidTunes/releases/tag/v1.0.0) | Windows 10 et 11 (64 bits) |
+> **Avertissement Windows :** l'installateur n'étant pas signé numériquement, Windows peut afficher un avertissement d'éditeur inconnu. Téléchargez-le uniquement depuis les Releases officielles et vérifiez son empreinte SHA-256 affichée sur la page de publication.
 
-## Licence et mentions légales
+## Configuration requise
 
-RapidTunes est un logiciel propriétaire, **non open source**. Ce dépôt ne contient que l'installateur et les notes de version : le code source n'est pas public.
+- Windows 10 ou Windows 11, 64 bits.
+- Une connexion Internet pour l'installation initiale des composants, les recherches, les téléchargements et les mises à jour.
+
+La lecture de médias déjà présents sur votre ordinateur reste accessible hors ligne. La disponibilité des téléchargements dépend des plateformes sources et de leurs conditions d'utilisation. Veillez à disposer des droits nécessaires pour les médias que vous téléchargez.
+
+## Aide rapide
+
+- **Installer une mise à jour :** utilisez la recherche de mise à jour depuis la page « À propos » de l'application, ou téléchargez l'installateur depuis les [Releases](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest).
+- **Consulter l'historique des versions :** ouvrez le [journal des modifications](CHANGELOG.md).
+- **Signaler un problème de sécurité :** consultez [SECURITY.md](SECURITY.md).
+
+## Licence et transparence
+
+RapidTunes est un logiciel propriétaire et **n'est pas open source**. Ce dépôt public contient les installateurs et les informations destinées aux utilisateurs ; le code source de l'application n'y est pas publié.
 
 - [Contrat de licence](LICENSE)
 - [Conditions d'utilisation](legal/TERMS.md)
@@ -73,6 +79,12 @@ RapidTunes est un logiciel propriétaire, **non open source**. Ce dépôt ne con
 - [Crédits](legal/CREDITS.md)
 - [Composants tiers](legal/THIRD_PARTY_NOTICES.md)
 
-Ces documents sont aussi consultables dans l'application, rubrique À propos, Mentions légales.
+Ces documents sont également consultables dans l'application, sous « À propos » puis « Mentions légales ».
+
+---
+
+<div align="center">
 
 © 2026 **Ghost Industry**. Tous droits réservés.
+
+</div>
