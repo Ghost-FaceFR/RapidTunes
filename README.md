@@ -4,7 +4,7 @@
 
 # RapidTunes
 
-**Votre bibliothèque musicale, votre lecteur et vos téléchargements — réunis dans une application Windows.**
+**Votre bibliothèque musicale, votre lecteur et vos téléchargements réunis dans une application Windows.**
 
 ![Windows 10 et 11](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white)
 ![64 bits](https://img.shields.io/badge/architecture-x64-555555)
@@ -65,7 +65,7 @@ La lecture de médias déjà présents sur votre ordinateur reste accessible hor
 
 - **Installer une mise à jour :** utilisez la recherche de mise à jour depuis la page « À propos » de l'application, ou téléchargez l'installateur depuis les [Releases](https://github.com/Ghost-FaceFR/RapidTunes/releases/latest).
 - **Consulter l'historique des versions :** ouvrez le [journal des modifications](CHANGELOG.md).
-- **Signaler un problème de sécurité :** consultez [SECURITY.md](SECURITY.md).
+- **Signaler un problème de sécurité,** consultez [SECURITY.md](SECURITY.md).
 
 ## Licence et transparence
 
