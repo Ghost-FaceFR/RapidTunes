@@ -19,7 +19,7 @@
 
 ## Découvrez RapidTunes
 
-RapidTunes réunit un lecteur multimédia et **Media DL** dans une application de bureau pensée pour Windows. Écoutez et organisez vos médias locaux, personnalisez votre expérience, ou lancez un téléchargement depuis un lien ou une recherche — sans jongler entre plusieurs outils.
+RapidTunes réunit un lecteur multimédia et **Media DL** dans une application de bureau pensée pour Windows. Écoutez et organisez vos médias locaux, personnalisez votre expérience, ou lancez un téléchargement depuis un lien ou une recherche, sans jongler entre plusieurs outils.
 
 ## Ce que vous pouvez faire
 
